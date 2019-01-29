@@ -1,0 +1,23 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+  
+  section h1 {
+  background-color: rgb(56, 234, 247);
+}
+h1 { background-color: red;
+font-size: 25;
+
+
+}
+
+.summary-title { 
+  background-color: purple;
+      text-align: center;
+      align-items: center;
+      }
+    
+
+
+
+    
